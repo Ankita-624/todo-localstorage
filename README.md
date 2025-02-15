@@ -24,7 +24,7 @@ A straightforward and adaptable task management application featuring a dark mod
 1.  **Repository Cloning:**
 
     ```
-    git clone [repository URL]
+    git clone https://github.com/Ankita-624/todo-localstorage.git
     ```
 
 2.  **Browser Launch:**
@@ -53,8 +53,8 @@ A straightforward and adaptable task management application featuring a dark mod
 
 ## Project Creator
 
-[Ankita Gouda]
+Ankita Gouda
 
 ## Licensing
 
-This project is open-sourced under the [Choose a License - e.g., MIT License] - see the `LICENSE` file for detailed terms. 
+This project is open-sourced under the MIT License - see the `LICENSE` file for detailed terms. 
