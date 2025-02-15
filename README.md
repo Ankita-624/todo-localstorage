@@ -1,8 +1,5 @@
 # todo-localstorage
 A basic to-do list application providing task management in dark mode. Utilizes HTML, CSS, and JavaScript for creation, with tasks saved locally in your browser.
-# Dark Mode Task Manager
-
-A straightforward and adaptable task management application featuring a dark mode interface. Built using fundamental web technologies—HTML, CSS, and JavaScript—this application stores tasks locally within the browser, ensuring data persistence across sessions.
 
 ## Key Features
 
